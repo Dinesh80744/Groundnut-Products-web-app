@@ -1,0 +1,6 @@
+.Productimage{
+    width: 337px;
+    height: 450px; 
+    object-fit: cover; 
+    object-position: 50% 50%;
+}
